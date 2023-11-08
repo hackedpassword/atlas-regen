@@ -44,8 +44,6 @@ dependencies {
     implementation("com.badlogicgames.gdx:gdx-backend-android:1.12.0")
 
     // LibGDX Native dependencies for Android
-    implementation("com.badlogicgames.gdx:gdx-platform:1.12.0:natives-armeabi")
-    implementation("com.badlogicgames.gdx:gdx-platform:1.12.0:natives-armeabi-v7a")
     implementation("com.badlogicgames.gdx:gdx-platform:1.12.0:natives-arm64-v8a")
     implementation("com.badlogicgames.gdx:gdx-platform:1.12.0:natives-x86")
     implementation("com.badlogicgames.gdx:gdx-platform:1.12.0:natives-x86_64")
