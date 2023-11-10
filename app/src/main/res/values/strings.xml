@@ -1,5 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Atlas Regen</string>
     <string name="enter_repository_url">Enter Repository URL</string>
     <string name="generate_atlas">Generate the atlas</string>
+    <string name="enter_github_token">Enter GitHub Token</string>
+    <string name="logs_appear_here" tools:ignore="TypographyEllipsis">Logs appear here...</string>
 </resources>
