@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atlas Regen</string>
+    <string name="enter_repository_url">Enter Repository URL</string>
+    <string name="generate_atlas">Generate the atlas</string>
+</resources>
