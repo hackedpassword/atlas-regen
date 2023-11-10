@@ -12,3 +12,5 @@ Current issue, struggle, is the IDE imploding over build errors somehow introduc
 One step at a time ...
 
 ![image](https://github.com/hackedpassword/atlas-regen/assets/119975434/e692e5af-4bb6-4751-aae5-3e1f5e0969a3)
+
+Use [ImagePacker.kt](https://github.com/yairm210/Unciv/blob/master/desktop/src/com/unciv/app/desktop/ImagePacker.kt) as the reference engine.
