@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.atlasregen.app"
-    compileSdk = 31
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.atlasregen.app"
         minSdk = 23
-        targetSdk = 31
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
