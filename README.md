@@ -10,3 +10,5 @@ Current issue, struggle, is the IDE imploding over build errors somehow introduc
 ![image](https://github.com/hackedpassword/atlas-regen/assets/119975434/07776f9c-f2bc-4d2f-abd6-649af2ed2ce1)
 
 One step at a time ...
+
+![image](https://github.com/hackedpassword/atlas-regen/assets/119975434/e692e5af-4bb6-4751-aae5-3e1f5e0969a3)
